@@ -1,7 +1,7 @@
 # SnakeGame-Python-DesktopApplication
 
 SnakeGame is my Bsc it final year project.
-i used pugame module python for backend logic  time module and random mudule to make this dektop application.
+i used pygame module python for backend logic  time module and random mudule to make this dektop application.
 
 following are details of every module:
 
